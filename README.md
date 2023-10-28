@@ -2,6 +2,7 @@
 
 ![PHPMailer](https://raw.github.com/PHPMailer/PHPMailer/master/examples/images/phpmailer.png)
 
+
 # PHPMailer – A full-featured email creation and transfer class for PHP
 
 [![Test status](https://github.com/PHPMailer/PHPMailer/workflows/Tests/badge.svg)](https://github.com/PHPMailer/PHPMailer/actions)
